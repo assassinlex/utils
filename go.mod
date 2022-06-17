@@ -1,3 +1,3 @@
-module gitee.com/assassin_lex/utils
+module github.com/assassinlex/utils
 
 go 1.17
